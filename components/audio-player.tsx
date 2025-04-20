@@ -21,15 +21,15 @@ const playlist = [
     favorite: false,
   },
   {
-    title: "Lofi Study",
-    artist: "Chill Beats",
-    src: "/audio/lofi-study.mp3",
+    title: "The Love I Lost",
+    artist: "Fried By Fluoride",
+    src: "/audio/the-love-i-lost.mp3",
     favorite: false,
   },
   {
-    title: "Coding Focus",
-    artist: "Deep Concentration",
-    src: "/audio/coding-focus.mp3",
+    title: "Nope your too late i already died",
+    artist: "wifiskeleton",
+    src: "/audio/nope-your-too-late-i-already-died.mp3",
     favorite: false,
   },
 ]
